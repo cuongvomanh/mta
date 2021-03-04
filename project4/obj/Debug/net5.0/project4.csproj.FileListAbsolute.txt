@@ -1,0 +1,16 @@
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.csprojAssemblyReference.cache
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.GeneratedMSBuildEditorConfig.editorconfig
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.AssemblyInfoInputs.cache
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.AssemblyInfo.cs
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.csproj.CoreCompileInputs.cache
+/home/cuong/Staff/mta/project4/bin/Debug/net5.0/project4
+/home/cuong/Staff/mta/project4/bin/Debug/net5.0/project4.deps.json
+/home/cuong/Staff/mta/project4/bin/Debug/net5.0/project4.runtimeconfig.json
+/home/cuong/Staff/mta/project4/bin/Debug/net5.0/project4.runtimeconfig.dev.json
+/home/cuong/Staff/mta/project4/bin/Debug/net5.0/project4.dll
+/home/cuong/Staff/mta/project4/bin/Debug/net5.0/ref/project4.dll
+/home/cuong/Staff/mta/project4/bin/Debug/net5.0/project4.pdb
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.dll
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/ref/project4.dll
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.pdb
+/home/cuong/Staff/mta/project4/obj/Debug/net5.0/project4.genruntimeconfig.cache

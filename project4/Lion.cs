@@ -1,7 +1,7 @@
 using System;
 public class Lion : Animal, DongVatAnThit {
     public static int age;
-    public void vomoi(){
+    public static void vomoi(){
         Console.WriteLine("Lion vomoi");
     }
     public override void eat()

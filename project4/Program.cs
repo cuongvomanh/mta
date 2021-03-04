@@ -13,9 +13,10 @@ namespace project4
             dongVatAnThit.sanmoi();
 
             Lion lion1 = new Lion();
+            Lion.vomoi();
             Console.WriteLine("Lion Age1 " + Lion.age);
-            Lion lion2 = new Lion();
-            Lion lion3 = new Lion();
+            Lion.age = Lion.age + 1;
+            Console.WriteLine("Lion Age2 " + Lion.age);
 
         }
     }

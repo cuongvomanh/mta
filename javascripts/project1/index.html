@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Title</title>
+        <link rel="stylesheet" href="style.css" />
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <h1>Sell your item here</h1>
+        <div class="main">
+            <div class="title item-container">
+                <h3>Item title</h3>
+                <div class="detail">
+                    <h4>Here type the title of your book</h4>
+                    <input type="text" placeholder="Beginning JavaScript">
+                </div>
+            </div>
+            <div class="description item-container">
+                <h3>Item description</h3>
+                <div class="detail">
+                    <h4>Describe the book detail, here like Author, what the book is all about etc. A good description is important because the buyers will read it before they bye your item.</h4>
+                    <input type="text" placeholder="This is a quite good Javascript book for student">
+                </div>
+            </div>
+            <div class="category item-container">
+                <h3>Item Category</h3>
+                <div class="detail">
+                    <h4>Select to which category your item belongs</h4>
+                    <ul>
+                        <li>
+                            <input type="radio" name="Kids">
+                            <label for="Kids">Kids</label>
+                        </li>
+                        <li>
+                            <input type="radio" name="Software">
+                            <label for="Software">Software</label>
+                        </li>
+                        <li>
+                            <input type="radio" name="Engineering">
+                            <label for="Engineering">Engineering</label>
+                        </li>
+                        <li>
+                            <input type="radio" name="Medical">
+                            <label for="Medical">Medical</label>
+                        </li>
+                        <li>
+                            <input type="radio" name="Mythodology">
+                            <label for="Mythodology">Mythodology</label>
+                        </li>
+                        <li>
+                            <input type="radio" name="Fitness">
+                            <label for="Fitness">Fitness</label>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="currency item-container">
+                <h3>Currency</h3>
+                <div class="detail">
+                    <h4>All amounts will use this currency</h4>
+                    <select name="currencycmb">
+                        <option>US$</option>
+                        <option>VND</option>
+                </div>
+            </div>
+            <div class="Price item-container">
+                <h3>Price</h3>
+                <div class="detail">
+                    <h4>A buer will purchase the item at this price</h4>
+                    <input type="text" placeholder="50">
+                </div>
+            </div>
+            <div class="Quantity item-container">
+                <h3>Quantity</h3>
+                <div class="detail">
+                    <h4>Mention the quantity below, you want each buyer to buy</h4>
+                    <input type="text">
+                </div>
+            </div>
+            <div class="Payment item-container">
+                <h3>Payment charges</h3>
+                <div class="detail">
+                    <h4>Here mention the moe of payment you would prefer to receive</h4>
+                    <h4>Select to which category your item belongs</h4>
+                    <ul>
+                        <li>
+                            <input type="checkbox" name="Cheque">
+                            <label for="Cheque">Cheque</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="Draft">
+                            <label for="Draft">Draft</label>
+                        </li>
+                        <li>
+                            <input type="checkbox" name="Credit Card">
+                            <label for="Credit Card">Credit Card</label>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="Policy">
+                    <input type="checkbox" name="Policy">
+                    <label for="Policy">I have read an agree to the term an conditions of Creative drage.com</label>
+                    <div class="Submit">
+                        <button>Submit</button>
+                        <button>Reset</button>
+                    </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,16 @@
+/home/cuong/Staff/mta/project5/bin/Debug/net5.0/project5
+/home/cuong/Staff/mta/project5/bin/Debug/net5.0/project5.deps.json
+/home/cuong/Staff/mta/project5/bin/Debug/net5.0/project5.runtimeconfig.json
+/home/cuong/Staff/mta/project5/bin/Debug/net5.0/project5.runtimeconfig.dev.json
+/home/cuong/Staff/mta/project5/bin/Debug/net5.0/project5.dll
+/home/cuong/Staff/mta/project5/bin/Debug/net5.0/ref/project5.dll
+/home/cuong/Staff/mta/project5/bin/Debug/net5.0/project5.pdb
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.csprojAssemblyReference.cache
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.GeneratedMSBuildEditorConfig.editorconfig
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.AssemblyInfoInputs.cache
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.AssemblyInfo.cs
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.csproj.CoreCompileInputs.cache
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.dll
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/ref/project5.dll
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.pdb
+/home/cuong/Staff/mta/project5/obj/Debug/net5.0/project5.genruntimeconfig.cache

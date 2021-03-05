@@ -1,0 +1,16 @@
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.csprojAssemblyReference.cache
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.GeneratedMSBuildEditorConfig.editorconfig
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.AssemblyInfoInputs.cache
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.AssemblyInfo.cs
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.csproj.CoreCompileInputs.cache
+/home/cuong/Staff/mta/project8/bin/Debug/net5.0/project8
+/home/cuong/Staff/mta/project8/bin/Debug/net5.0/project8.deps.json
+/home/cuong/Staff/mta/project8/bin/Debug/net5.0/project8.runtimeconfig.json
+/home/cuong/Staff/mta/project8/bin/Debug/net5.0/project8.runtimeconfig.dev.json
+/home/cuong/Staff/mta/project8/bin/Debug/net5.0/project8.dll
+/home/cuong/Staff/mta/project8/bin/Debug/net5.0/ref/project8.dll
+/home/cuong/Staff/mta/project8/bin/Debug/net5.0/project8.pdb
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.dll
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/ref/project8.dll
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.pdb
+/home/cuong/Staff/mta/project8/obj/Debug/net5.0/project8.genruntimeconfig.cache
